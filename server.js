@@ -14,5 +14,5 @@ app.use(express.static(path.join(__dirname, "./public")));
 
 //listening
 app.listen(8000, function(){
-	console.log("Listening to discussions on 8000");
+	console.log("Listening to Portfolio on 8000");
 });
