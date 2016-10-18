@@ -1,0 +1,51 @@
+*{
+	margin: 0;
+}
+
+.navbar.navbar-fixed-top.nav-justified {
+	/*border: 2px solid black;*/
+	background-color: white;
+}
+
+	.navlist {
+		font-size: 1.3em;
+	}
+
+#top {
+	text-align: center;
+	margin-top: 10%;
+	/*border: 2px solid black;*/
+	height: 40%;
+}
+
+	#name {
+		font-size: 6em;
+	}
+
+	#jobtitle {
+		font-size: 3em;
+	}
+
+#hello {
+	/*border: 2px solid black;*/
+	height: 50%;
+}
+
+	.intro1 {
+		margin-top: 5%;
+		text-align: center;
+		font-size: 1.8em;
+	}
+
+	.intro2 {
+		margin-top: 3%;
+		margin-left: 8%;
+		margin-right: 2%;
+		text-align: right;
+		font-size: 1.3em;
+	}
+
+#projects {
+	border: 2px solid black;
+	height: 50%;	
+}
